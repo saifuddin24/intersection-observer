@@ -1,0 +1,15 @@
+#box {
+    margin:1000px auto;
+    height: 250px;
+    width: 400px;
+    border: 2px solid green;
+    background-color: #00BB00;
+    border-radius: 20px;
+    transition: 0.2s;
+
+}
+
+.intersected {
+    background-color: #d48d09 !important;
+    margin-left: auto;
+}
